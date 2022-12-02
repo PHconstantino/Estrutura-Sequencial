@@ -18,7 +18,7 @@ Inicio
         delta <- exp (b,2) -4* a * c
         
        se  (a = 0) ou (delta < 0)  entao
-            escreva ("Equação não possui raizes reais")
+            escreva ("EquaÃ§Ã£o nÃ£o possui raizes reais")
        senao
             se delta > 0 entao
 
@@ -26,7 +26,7 @@ Inicio
         x2 <- (-b - RaizQ (delta)) / (2 * a)
 
            escreval ("X1 = ", x1:5:4)
-           escreva  ("X2 = ", x2:5:4)
+           escreval  ("X2 = ", x2:5:4)
            fimse
        fimse
         
